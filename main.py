@@ -1,2 +1,2 @@
 print("Burger")
-print("pizza")
+print("fkfkkf")
